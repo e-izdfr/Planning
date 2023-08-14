@@ -1,2 +1,2 @@
-# planning
+# Planning
 Solving a planning problem
